@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    ravi gupta ravigupta612@gmail.com
 
 # THANKS
 
