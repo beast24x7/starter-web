@@ -9,4 +9,6 @@ This is example is to show different parts of the git repository and various com
 
 ## Deployment
 
+Can be deployed on web server/ LFS
+
 ## How to contribute
