@@ -12,6 +12,7 @@ This is example is to show different parts of the git repository and various com
 Can be deployed on web server/ LFS
 
 ## How to contribute
+Please fork this reppo and then issue pull request for review
 
 ## Copyright
 Ravi Gupta
